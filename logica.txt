@@ -1,0 +1,14 @@
+
+Faça um progama que leia um nome de usuário ea sua senha e não 
+aceite a senha igual ao nome de usuário .Mostre mensagem de erro e volte pedir as informações.
+
+
+
+1 - pedir os dados de entrada (usuario e senha).
+
+2 - impedir que o nome de usuario sejá igual a senha.
+
+3 - e ce for igual de erro com uma mensagem de erro
+
+
+
